@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491557549767",
+    "project_id": "truong-40e63",
+    "storage_bucket": "truong-40e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491557549767:android:fabd03b68c7a89493130e2",
+        "android_client_info": {
+          "package_name": "fpoly.truongtqph41980.lab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491557549767-3ed61n4l41s6ku9c4rlugk6p8hfq39il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_GK7c9qvHQOoVKAiilq7TowtUayhHdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491557549767-3ed61n4l41s6ku9c4rlugk6p8hfq39il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
